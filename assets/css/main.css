@@ -1,0 +1,15 @@
+
+    body{
+      background-color: #e9ecef;
+    }
+    .hidden{
+      display: none;
+    }
+    .show{
+      display: block;
+    }
+    .card-img-top{
+        height: 288px;
+        width:288px;
+        object-fit:fill;
+    }
